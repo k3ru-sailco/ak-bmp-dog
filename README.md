@@ -5,7 +5,7 @@ A throwback to the time I put a phone on my dog to collect BMP events.
 
 When I was maintaining an Akmai BMP solution, I needed to collect a large amount of events in order to train a model that would then generate realistic event datasets.
 I used this code to collect the events by strapping the phone to my dog as he ran around all day. Another idea was to throw the phone in the washing machine and put in on a low spin cycle; this probably 
-would have worked too given that the standard by which they judge events is not very high.
+would have worked too given that the standard by which they judge events is not very high; I mostly wanted to train a model as a challenge and for the purpose of passing at great scale.
 
 **Usage**
 
