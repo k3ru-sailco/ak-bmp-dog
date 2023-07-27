@@ -15,7 +15,7 @@ processable event dataset. At the time I would just load the project wirelessly 
 **TLDR**
 
 This was a fun experiment and project at the time; I find it very amusing that I used my dog to combat an anti-bot system and it just so happened to work. Please do not reference this or use this
-for anything with ill intent. The repo is meant to be funny and interesting. Thank you!
+for anything with ill intent. The repo is meant to be funny and interesting, the code was truly never meant to be taken seriously (hence why its a mess). Thank you!
 
 
 
