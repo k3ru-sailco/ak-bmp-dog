@@ -1,4 +1,4 @@
-# ak-bmp-dog
+# BMP DOG
 A throwback to the time I put a phone on my dog to collect BMP events.
 
 **Backstory**
